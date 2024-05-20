@@ -51,6 +51,6 @@ cd Documents/GitHub
 2. Abrir Git Bash en ese directorio.
 3. Clonar el repositorio
 `
-git clone https://github.com/albertoromv/DS_Online_Mayo24_Exercises.git
+git clone https://github.com/albertoromv/DS_Online_Mayo24.git
 `
 4. Hacer `git pull` para actualizar.
