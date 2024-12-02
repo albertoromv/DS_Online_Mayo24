@@ -1,0 +1,3 @@
+chmod400 para permisos en gitbash
+
+en túnel ssh quitar -L (solo -N)
