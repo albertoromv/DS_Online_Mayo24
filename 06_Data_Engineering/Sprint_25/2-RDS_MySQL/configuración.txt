@@ -1,0 +1,11 @@
+que no escale
+que no haga copias de seguridad
+que no cifre
+quitar mantenimiento - versiones secundarias
+
+
+asegurarnos al borrar la base de datos de 
+no tener snapshots
+
+https://repost.aws/questions/QUgOaEA0qmRpic1HuOpZ7auQ/managing-rds-snapshots-removing-automatic-snapshots-after-database-deletion
+
