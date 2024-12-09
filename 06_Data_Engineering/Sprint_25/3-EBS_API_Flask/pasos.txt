@@ -1,0 +1,14 @@
+python
+
+nombre versión
+
+cargar de archivo local
+
+par de claves
+
+grupo de seguridad default
+
+informe de estado - básico
+
+Borrar bucket s3
+https://stackoverflow.com/questions/31156842/how-to-delete-empty-s3-bucket-which-generated-by-elastic-beanstalk
