@@ -1,0 +1,36 @@
+Data Viz Project, a true helper with extensive docs and examples
+https://datavizproject.com
+How to Choose The Right Data Visualization (free PDF eBook) by Michael Yi, Mel Restori
+https://lnkd.in/eTmzFWwQ
+Choosing Fonts For Charts and Tables, by Lisa Charlotte Muth
+https://lnkd.in/esuE_F5N
+Accessible Data Visualization by Sarah Fossheim
+https://lnkd.in/dEzvCsdP
+Fundamentals of Data Visualization (free HTML book) by Claus Wilke
+https://lnkd.in/eKcPrXCE
+A Complete Guide To Getting Data Visualization Right, by Sara Dholakia
+https://lnkd.in/eZGZ_NWA
+Interpolation For Your Color Scale, by Lisa Charlotte Muth
+https://lnkd.in/eucbrxyy
+Text in Data Visualizations, by Lisa Charlotte Muth
+https://lnkd.in/edb3s2um
+Design Systems focused on Data Visualization
+https://lnkd.in/eCni8PXU by Netflix,
+https://lnkd.in/eAUYRpeQ by if.
+From Data to Viz, a repository with references to code
+https://lnkd.in/eCMrt6G7
+Designing Experiences Through Data Stories by M. Hekeler, M. Pometti, K. Heintze, M. Bruells.
+https://lnkd.in/epuMPjbx
+DataViz Inspiration
+https://lnkd.in/eJvViEaa
+https://lnkd.in/eup9eXqA
+Data Visualization Journals
+https://flowingdata.com
+https://nightingaledvs.com
+
+
+
+
+
+
+
